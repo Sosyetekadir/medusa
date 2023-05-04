@@ -1,5 +1,15 @@
 # Change Log
 
+## 1.10.1
+
+### Patch Changes
+
+- [#3971](https://github.com/medusajs/medusa/pull/3971) [`7fd22ecb4`](https://github.com/medusajs/medusa/commit/7fd22ecb4d5190e92c6750a9fbf2d8534bb9f4ab) Thanks [@pKorsholm](https://github.com/pKorsholm)! - Feat(client-types, inventory, medusa, types): add `title`, `thumbnail` and `description to inventory item and `description` to reservation item.
+
+- Updated dependencies [[`7fd22ecb4`](https://github.com/medusajs/medusa/commit/7fd22ecb4d5190e92c6750a9fbf2d8534bb9f4ab)]:
+  - @medusajs/types@1.8.5
+  - @medusajs/modules-sdk@1.8.5
+
 ## 1.10.0
 
 ### Minor Changes

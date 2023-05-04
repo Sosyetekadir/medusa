@@ -1,5 +1,12 @@
 # @medusajs/event-bus-local
 
+## 1.9.2
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/modules-sdk@1.8.5
+
 ## 1.9.1
 
 ### Patch Changes

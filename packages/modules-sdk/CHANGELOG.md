@@ -1,5 +1,12 @@
 # @medusajs/modules-sdk
 
+## 1.8.5
+
+### Patch Changes
+
+- Updated dependencies [[`7fd22ecb4`](https://github.com/medusajs/medusa/commit/7fd22ecb4d5190e92c6750a9fbf2d8534bb9f4ab)]:
+  - @medusajs/types@1.8.5
+
 ## 1.8.4
 
 ### Patch Changes

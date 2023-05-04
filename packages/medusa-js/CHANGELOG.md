@@ -1,5 +1,12 @@
 # Change Log
 
+## 4.0.1
+
+### Patch Changes
+
+- Updated dependencies [[`7fd22ecb4`](https://github.com/medusajs/medusa/commit/7fd22ecb4d5190e92c6750a9fbf2d8534bb9f4ab)]:
+  - @medusajs/medusa@1.10.1
+
 ## 4.0.0
 
 ### Patch Changes
